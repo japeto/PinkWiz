@@ -1,0 +1,12 @@
+
+Transformaciones de intensidad 
+        (lineal, logarítmica, ley de potencia, por segmentos lineales)
+        
+filtrado espacial 
+        (se debe poder especificar el tamaño de la máscara y el tipo de filtro: promedio, promedio ponderado, SobelX,SobelY)
+        
+filtrado en frecuencia 
+        (filtros paso bajo, filtros paso alto, tipo: Butterworth, Gaussiano, Ideal).        
+
+
+
